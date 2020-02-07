@@ -1,0 +1,129 @@
+.table {
+  margin-top: 100PX;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 200PX;
+}
+
+.table td {
+  border: 1px solid #0c093c;
+  padding: 10px 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.78rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+#empty-box {
+  background-color: #ffe7d1;
+  border: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#alkali-metal {
+  background-color: #2f416d;
+}
+#alkali-metal:hover {
+  background-color: #537ec5;
+}
+#alkaline-earth-metal {
+  background-color: #a34a28;
+}
+#alkaline-earth-metal:hover {
+  background-color: #e26241;
+}
+#noble-gas {
+  background-color: #5dc0a6;
+}
+#noble-gas:hover {
+  background-color: #003f5c;
+}
+
+#halogen {
+  background-color: #e25822;
+}
+
+#halogen:hover {
+  background-color: #f58b54;
+}
+
+#transition-metals {
+  background-color: #f3fe7e;
+}
+
+#transition-metals:hover {
+  background-color: #ffdc34;
+}
+
+#lanthanoid {
+  background-color: #bb1542;
+  }
+
+  #lanthanoid:hover {
+    background-color: #f54291;
+    }
+
+#actinoid {
+  background-color: #ff5858;
+}
+
+#actinoid:hover {
+  background-color: #8b4367;
+}
+
+
+
+#non-metal{
+  background-color: #a8ff3e;
+
+}
+
+#non-metal:hover{
+  background-color: #76a21e;
+
+}
+#semi-metal{
+  background-color: #6b48ff;
+}
+
+#semi-metal:hover{
+  background-color: #0d3f67;
+}
+
+#metal {
+  background-color: #ac8daf;
+
+}
+
+#metal:hover {
+  background-color: #70416d;
+
+}
+
+
+.INFO {
+  width: 1000px;
+  height: 150px;
+  background-color: #dfddc7;
+  border: solid #293462;
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE */
+/* CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE */
+/* CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE CLASSIFICATION TABLE */
+
+#CLASSIFICATION-TABLE td{
+padding: 13px 13px;
+  text-align: center;
+
+}
+
+
+
+/* BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER */
+/* BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER */
+/* BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER BOTTOM CONTAINER */
